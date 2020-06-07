@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/welcome"
+    tools:context=".WelcomeActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="550dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:text="@string/team" />
+
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="160dp"
+        android:text="@string/welcome_screen"
+        android:gravity="center"
+        android:background="#D1000000"
+        android:textColor="@android:color/white"
+        android:textSize="45sp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:theme="@style/ProgressBarStyle"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_alignTop="@+id/welcomeTextView"
+        android:layout_alignBottom="@+id/welcomeTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp"
+        android:layout_marginBottom="0dp" />
+
+
+
+</RelativeLayout>

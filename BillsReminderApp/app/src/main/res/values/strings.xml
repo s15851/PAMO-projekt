@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">BillsReminderApp</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="add">Dodaj</string>
+    <string name="PLN">PLN</string>
+    <string name="charge">Kwota</string>
+    <string name="dateOfPayments">Data płatności</string>
+    <string name="incomingInvoices">ZBLIŻAJĄCE SIĘ FAKTURY</string>
+    <string name="overdueInvoices">FAKTURY ZALEGŁE</string>
+    <string name="receiver">Odbiorca/Pozycja</string>
+
+    <string-array name="howManyTimes">
+        <item>Nie wysyłaj powiadomień</item>
+        <item>1 Dzień przed terminem płatności</item>
+        <item>2 Dni przed terminem płatności</item>
+        <item>3 Dni przed terminem płatności</item>
+        <item>4 Dni przed terminem płatności</item>
+        <item>5 Dni przed terminem płatności</item>
+        <item>6 Dni przed terminem płatności</item>
+        <item>7 Dni przed terminem płatności</item>
+        <item>8 Dni przed terminem płatności</item>
+        <item>9 Dni przed terminem płatności</item>
+        <item>10 Dni przed terminem płatności</item>
+        <item>11 Dni przed terminem płatności</item>
+        <item>12 Dni przed terminem płatności</item>
+        <item>13 Dni przed terminem płatności</item>
+        <item>14 Dni przed terminem płatności</item>
+    </string-array>
+
+    <string name="term">TERMIN PŁATNOŚCI:</string>
+    <string name="date">01-01-2019</string>
+    <string name="cancel">ANULUJ</string>
+    <string name="accept">AKCEPTUJ</string>
+    <string name="information">WYBIERZ CYKLICZNOŚĆ POWIADOMIEŃ</string>
+
+    <string-array name="periodically">
+        <item>DZIEŃ</item>
+        <item>TYDZIEŃ</item>
+        <item>MIESIĄC</item>
+        <item>ROK</item>
+    </string-array>
+
+    <string name="isNoRepeated">NIE POWTARZA SIĘ</string>
+    <string name="isRepeated">POWTARZA SIĘ</string>
+    <string name="toggleButton">ToggleButton</string>
+	<string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="receiver_row">Odbiorca</string>
+    <string name="dateOfPayment">Data płatności</string>
+    <string name="comments">Uwagi</string>
+    <string name="welcome_screen">BillsReminderApp</string>
+    <string name="team">PROJECT TEAM : \n- Michał Borkowski, s15805 \n- Kamil Szczepanik, s15851</string>
+
+</resources>
