@@ -1,0 +1,26 @@
+Wyślij email do prowadząego (jeden email - per zespół).
+Termin wysłana emaila: 07.06.2020 23:59. Email musi zawierać następujące elementy:
+
+  0. Tytuł emaila: PAMO - Podsumowanie Projektu - BillsReminder
+  1. CC: s15851@pjwstk.edu.pl, s15805@pjwstk.edu.pl
+  2. Feedback
+Co nam się podobało?
+Podobały nam się sposób prowadzenia ćwiczeń, tzn. realizacja zadań laboratoryjnych po wstępie omawiającym temat, w którym jest pokazane co i jak ma zostało zrobione, a nie na zasadzie macie tu pdf-a i róbcie - to jest bardzo na plus.
+Przegląd kilku technologii oraz zrobienie tego samego zadania za pomocą różnych języków (kotlin vs java). No i weryfikacja zdobytej wiedzy poprzez Kahoot.
+Co nam się nie podabało? 
+Nie możemy się doliczyć... no może to że prezentacja jest możliwa tylko na ostatnich zajęciach (wszytsko mamy na ostatnim zjeździe), także raczej bez zastrzeżeń. 
+
+  3. Podsumowanie użytych narzędzi, wytworzonych artefaktów + linki; ????
+
+
+  4. Samoocena
+________________________________________________________________________________________________________________________________
+|Dane studenta			|Requirements and Management	|Source Code	|Quality	|Presentation	|Średnia ocen	|
+|_______________________________|_______________________________|_______________|_______________|_______________|_______________|
+|Michał Borkowski, s15805	|		4		|	4	|	3	|	4	|	4	|
+|_______________________________|_______________________________|_______________|_______________|_______________|_______________|
+|Kamil Szczepanik, s15851	|		4		|	3	|	3	|	4	|	3.5	|	
+|_______________________________|_______________________________|_______________|_______________|_______________|_______________|
+
+
+
