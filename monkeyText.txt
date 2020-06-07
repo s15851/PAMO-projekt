@@ -1,0 +1,338 @@
+  bash arg: --ignore-crashes
+  bash arg: -p
+  bash arg: com.example.billsreminderapp
+  bash arg: -v
+  bash arg: 500
+args: [--ignore-crashes, -p, com.example.billsreminderapp, -v, 500]
+ arg: "--ignore-crashes"
+ arg: "-p"
+ arg: "com.example.billsreminderapp"
+ arg: "-v"
+ arg: "500"
+arg="--ignore-crashes" mCurArgData="null" mNextArg=1 argwas="--ignore-crashes" nextarg="-p"
+data="com.example.billsreminderapp"
+:Monkey: seed=1591603554569 count=500
+:AllowPackage: com.example.billsreminderapp
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.billsreminderapp/.AddActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.billsreminderapp/.AddActivity } in package com.example.billsreminderapp
+:Sending Touch (ACTION_DOWN): 0:(1141.0,2018.0)
+:Sending Touch (ACTION_UP): 0:(1151.8027,2018.9225)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(189.0,1895.0)
+:Sending Touch (ACTION_UP): 0:(206.6678,1969.4287)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(24.562346,1489.2848)
+:Sending Touch (ACTION_DOWN): 0:(756.0,293.0)
+:Sending Touch (ACTION_UP): 0:(755.0611,296.19656)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1351.0,1205.0)
+:Sending Touch (ACTION_UP): 0:(1352.6803,1206.4023)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2020-06-07 14:53:35.532  system_uptime:14773302]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    // Allowing start of Intent { cmp=com.example.billsreminderapp/.AddActivity } in package com.example.billsreminderapp
+:Sending Touch (ACTION_DOWN): 0:(873.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(879.2233,1307.9441)
+:Sending Touch (ACTION_DOWN): 0:(1242.0,864.0)
+:Sending Touch (ACTION_UP): 0:(1243.8447,871.49164)
+:Sending Touch (ACTION_DOWN): 0:(387.0,900.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity } in package com.google.android.apps.nexuslau
+ncher
+:Sending Touch (ACTION_UP): 0:(426.75693,881.1018)
+:Sending Touch (ACTION_DOWN): 0:(872.0,178.0)
+:Sending Touch (ACTION_UP): 0:(873.6937,173.68694)
+:Sending Touch (ACTION_DOWN): 0:(1361.0,2092.0)
+:Sending Touch (ACTION_UP): 0:(1360.751,2112.3438)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.billsreminderapp/.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.billsreminderapp/.MainActivity } in package com.example.billsreminderapp
+:Sending Touch (ACTION_DOWN): 0:(1306.0,1537.0)
+:Sending Touch (ACTION_UP): 0:(1310.392,1528.1843)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1353.0,854.0)
+:Sending Touch (ACTION_UP): 0:(1340.8245,873.17145)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,917.0)
+:Sending Touch (ACTION_UP): 0:(1068.3103,916.69934)
+:Sending Touch (ACTION_DOWN): 0:(1223.0,1530.0)
+    //[calendar_time:2020-06-07 14:53:38.350  system_uptime:14776120]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(1239.3544,1543.4896)
+:Sending Touch (ACTION_DOWN): 0:(760.0,9.0)
+:Sending Touch (ACTION_UP): 0:(766.3039,16.838428)
+:Sending Touch (ACTION_DOWN): 0:(325.0,646.0)
+:Sending Touch (ACTION_UP): 0:(306.73352,655.1501)
+:Sending Touch (ACTION_DOWN): 0:(157.0,887.0)
+:Sending Touch (ACTION_UP): 0:(18.418808,917.9304)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(224.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(222.94907,1167.7485)
+:Sending Touch (ACTION_DOWN): 0:(0.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(2.8206794,1183.3417)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(311.0,860.0)
+:Sending Touch (ACTION_UP): 0:(314.2764,866.83545)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1158.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(1145.8085,1531.9581)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    //[calendar_time:2020-06-07 14:57:16.843  system_uptime:14994613]
+    // Sending event #300
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(989.0,907.0)
+:Sending Touch (ACTION_UP): 0:(1020.1484,875.89355)
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.FileNotFoundException: /dev/input/event0: open failed: EACCES (Permission denied)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(655.0,140.0)
+:Sending Touch (ACTION_UP): 0:(631.2418,174.51057)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1121.0,1792.0)
+:Sending Touch (ACTION_UP): 0:(1138.2877,1780.1022)
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    //[calendar_time:2020-06-07 15:04:15.539  system_uptime:15413309]
+    // Sending event #400
+    // Injection Failed
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(356.0,1713.0)
+:Sending Touch (ACTION_UP): 0:(343.64282,1724.579)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1388.0,1776.0)
+:Sending Touch (ACTION_UP): 0:(1281.1921,1745.4258)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(290.0,2035.0)
+:Sending Touch (ACTION_UP): 0:(306.73935,2038.2417)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(956.0,2056.0)
+:Sending Touch (ACTION_UP): 0:(954.6448,2052.3066)
+:Sending Touch (ACTION_DOWN): 0:(79.0,424.0)
+:Sending Touch (ACTION_UP): 0:(91.4836,422.75397)
+:Sending Touch (ACTION_DOWN): 0:(936.0,184.0)
+:Sending Touch (ACTION_UP): 0:(933.69867,194.03448)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(656.0,2186.0)
+:Sending Touch (ACTION_UP): 0:(703.66565,2202.5698)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+Events injected: 500
+:Sending rotation degree=0, persist=false
+:Dropped: keys=65 pointers=130 trackballs=0 flips=1 rotations=0
+## Network stats: elapsed time=984628ms (0ms mobile, 0ms wifi, 984628ms not connected)
+// Monkey finished
