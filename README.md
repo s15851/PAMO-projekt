@@ -1,5 +1,5 @@
 # BillsReminderApp
-<br />
+
 # Project team:
 - Michał Borkowski, s15805
 - Kamil Szczepanik, s15851
